@@ -10,7 +10,7 @@ task2/
   Task2_experiment_log.ipynb      original experiment runs
   first_submission_P5985_E10.txt  submitted forecast
   figures/                        report figures
-  data/                           put the course CSVs here (not included)
+  data/                           CSVs here 
 ```
 
 The report is submitted on the LMS.
